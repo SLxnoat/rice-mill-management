@@ -44,7 +44,7 @@ The Rice Mill Management System is a full-featured enterprise resource planning 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/rice-mill-management.git
+git clone https://github.com/SLxnoat/rice-mill-management.git
 cd rice-mill-management
 ```
 
@@ -193,7 +193,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Mayura Bandara
 
 ## 🙏 Acknowledgments
 
